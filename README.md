@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm a 4th-year Computer Science and Engineering student at the University of Oulu. I'm especially interested in web and mobile development and motivated by the tangible progress of seeing projects come to life. I have the most experience with JavaScript and React, through making my own (website)[https://github.com/matiaspaavilainen/my-website] and (FullStackOpen)[https://github.com/matiaspaavilainen/FullStackOpen]. I also have some experience with Android development using Jetpack Compose and Kotlin from the (Mobile Computing course)[https://github.com/matiaspaavilainen/MobileComputingProject].
+I'm a 4th-year Computer Science and Engineering student at the University of Oulu. I'm especially interested in web and mobile development and motivated by the tangible progress of seeing projects come to life. I have the most experience with JavaScript and React, through making my own [website](https://github.com/matiaspaavilainen/my-website) and [FullStackOpen](https://github.com/matiaspaavilainen/FullStackOpen). I also have some experience with Android development using Jetpack Compose and Kotlin from the [Mobile Computing course](https://github.com/matiaspaavilainen/MobileComputingProject).
+
 ## 🚀 Technologies I've Worked With
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -8,7 +9,7 @@ I'm a 4th-year Computer Science and Engineering student at the University of Oul
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
