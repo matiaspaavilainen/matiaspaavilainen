@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a 4th-year Computer Science and Engineering student at the University of Oulu. I'm especially interested in web and mobile development and motivated by the tangible progress of seeing projects come to life. I have the most experience with JavaScript and React, through making my own [website](https://github.com/matiaspaavilainen/my-website) and [FullStackOpen](https://github.com/matiaspaavilainen/FullStackOpen). I also have some experience with Android development using Jetpack Compose and Kotlin from the [Mobile Computing course](https://github.com/matiaspaavilainen/MobileComputingProject). I learned basic embedded programming from [IoT-project course](https://github.com/vniinimaki/iot_project).
+I'm a 4th-year Computer Science and Engineering student at the University of Oulu. I'm especially interested in web and mobile development. I have the most experience with JavaScript and React, through making my own [website](https://github.com/matiaspaavilainen/my-website) and [FullStackOpen](https://github.com/matiaspaavilainen/FullStackOpen) course. I also have some experience with Android development using Jetpack Compose and Kotlin from the [Mobile Computing course](https://github.com/matiaspaavilainen/MobileComputingProject). I've learned basic embedded programming from [IoT-project course](https://github.com/vniinimaki/iot_project).
 
 ## 🚀 Technologies I've used
 
