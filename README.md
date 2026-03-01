@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-I'm a 5th-year Computer Science and Engineering student at the University of Oulu. I'm especially interested in web and mobile development. I have the most experience with JavaScript, React and NodeJS, through making my own [website](https://github.com/matiaspaavilainen/my-website) and [FullStackOpen](https://github.com/matiaspaavilainen/FullStackOpen) course. I also have some experience with Android development using Jetpack Compose and Kotlin from the [Mobile Computing course](https://github.com/matiaspaavilainen/MobileComputingProject). I've learned basic embedded programming from [IoT-project course](https://github.com/vniinimaki/iot_project). Both of these skills were put to use on the [Arduino powered curtain-opener](https://github.com/matiaspaavilainen/Curtain-Opener), controlled with an Android app.
+I'm a 5th-year Computer Science and Engineering student at the University of Oulu. I'm especially interested in web and mobile development. I have the most experience with JavaScript/TypeScript and React, through making my own [website](https://github.com/matiaspaavilainen/my-website) and the [RealConstellations](https://github.com/matiaspaavilainen/RealConstellations) project. I also have some experience with Android development using Jetpack Compose and Kotlin from the [Mobile Computing course](https://github.com/matiaspaavilainen/MobileComputingProject). I've learned basic embedded programming from [IoT-project course](https://github.com/vniinimaki/iot_project). Both of these skills were put to use on the [Arduino powered curtain-opener](https://github.com/matiaspaavilainen/Curtain-Opener), controlled with an Android app.
 
 ## 🚀 Technologies I've used
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
